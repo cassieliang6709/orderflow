@@ -1,0 +1,28 @@
+sky:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    host: localhost
+    port: 3306
+    database: orderflow
+    username: your_mysql_username
+    password: your_mysql_password
+  alioss:
+    endpoint: your_oss_endpoint
+    access-key-id: your_oss_access_key_id
+    access-key-secret: your_oss_access_key_secret
+    bucket-name: your_oss_bucket
+  redis:
+    host: localhost
+    port: 6379
+    password: your_redis_password_or_blank
+    database: 0
+  wechat:
+    appid: your_wechat_appid
+    secret: your_wechat_secret
+    mchid: your_wechat_merchant_id
+    mchSerialNo: your_wechat_merchant_serial
+    privateKeyFilePath: /path/to/apiclient_key.pem
+    apiV3Key: your_wechat_api_v3_key
+    weChatPayCertFilePath: /path/to/wechatpay_cert.pem
+    notifyUrl: https://your-domain.example.com/pay/notify
+    refundNotifyUrl: https://your-domain.example.com/pay/refund-notify
