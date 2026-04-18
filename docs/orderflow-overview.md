@@ -56,5 +56,6 @@ I wanted a Java-first project that demonstrates backend engineering rather than 
 
 ## Repository Reference
 
+- Public repository: [cassieliang6709/orderflow](https://github.com/cassieliang6709/orderflow)
 - Upstream base repository: [shuhongfan/sky-take-out](https://github.com/shuhongfan/sky-take-out)
 - Portfolio repository target: `cassieliang6709/orderflow`

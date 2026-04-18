@@ -111,5 +111,6 @@ Packaging goal for the next stage:
 ## Supporting Docs
 
 - [OrderFlow packaging notes](./docs/orderflow-overview.md)
+- Public repository: [cassieliang6709/orderflow](https://github.com/cassieliang6709/orderflow)
 - Upstream base repository: [shuhongfan/sky-take-out](https://github.com/shuhongfan/sky-take-out)
 - legacy course materials remain in the repo for reference, but the portfolio narrative should prioritize backend systems engineering
